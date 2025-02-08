@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Tailwind CSS bug involving conflicting directives and misconfiguration. The `bug.css` file shows the incorrect usage leading to the error, while `bugSolution.css` provides the corrected implementation.
